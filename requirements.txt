@@ -1,6 +1,8 @@
 Flask
 flask-cors
-PyMongo
-python-dotenv
-PyJWT
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+pymongo
+gunicorn
 Werkzeug
